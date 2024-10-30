@@ -1,0 +1,24 @@
+path: C:/Users/Huijb/OneDrive/Bureaublad/Fontys/Semester 4/Group project/YOLOv8/data
+train: images
+val: images
+
+imgsz: 320
+
+
+names:
+  0: boat
+  1: person
+  2: dog
+  3: cat
+  4: child
+  5: hat
+  6: house
+  7: pot
+  8: lion
+  9: tiger
+  10: alpaca
+  11: dear
+  12: tomato
+  13: potato
+  14: soup
+  15: eartag
